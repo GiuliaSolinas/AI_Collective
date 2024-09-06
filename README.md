@@ -1,2 +1,2 @@
 # blogging
-This repo contains contents that I create to post it on my blog, website, and social media profile
+This repo contains content that I create to post on my blog, website, and social media profile
