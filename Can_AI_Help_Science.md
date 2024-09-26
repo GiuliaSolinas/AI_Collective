@@ -1,6 +1,6 @@
 # Can AI help science?
 
-Can AI help science? In my opinion, yes, and it can do so in several directions. This week, I found two interesting examples that showcase the potential of AI to foster creativity and productivity in science.
+Can AI help science? In my opinion, yes, and it can do so in several directions. This week, I found three interesting examples that showcase the potential of AI to foster creativity and productivity in science.
 
 1 - AI can help write equations that push scientific discovery further. 
 
@@ -23,6 +23,12 @@ SciLitLLM is a suite of LLMs that presents promising results in understanding sp
 This tool can help scientists extract targeted information, summarize a large corpus from a stack of documents, and speed up their literature searches. However, it won't substitute for the researchers' critical reading and understanding of such knowledge. 
 
 Pre-print: https://arxiv.org/abs/2408.15545v1
+
+3- AI can help generate novel research ideas
+
+Researchers from Stanford University did an experiment with 100+NLP researchers. 
+
+Pre-print: https://www.arxiv.org/abs/2409.04109
 
 While I am very excited to read about these novel ways AI can help scientists produce innovation, there are some caveats. These examples are not plug-and-play tools that researchers can use directly for their jobs and require some programming skills to be customized to the scientists' needs. It looks like it still requires time, trust from the scientific community, and investments from the institutions to make these inventions ready to be consumed by the majority of scientists. 
 
