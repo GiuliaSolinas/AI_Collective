@@ -10,3 +10,21 @@ In their experience, GenAI can bring value to low-level requirements (e.g., extr
 They are pretty open to being cautious about GenAI's value for more high-level abstract tasks. I think this is a fair point because it is an area with still a lot of research and experimentation but a consolidated method that could be brought into a stable product. They are working on this issue and point to GraphRAG from Microsoft (this project is gaining much interest in the LLM circles). I do not think it is the ultimate solution, and there are complementary fields, such as research on the chain of thoughts, multi-agentic models, and extension of context understanding. 
 Overall, there are many points we can bring to the PoV discussion. We could even provide a quick snapshot of our code-modernization radar. 
 
+New version for social media
+
+---
+
+🚀 **Legacy Code Modernization with GenAI!** 🚀
+
+These days, I have the honor of working on a project I love: COBOL code modernization with genAI. I have been researching genAI solutions for COBOL code modernization. There are some challenges when working with COBOL. It is a legacy code with unique traits such as its verbose syntax, complex data structures, and reliance on specific hardware and operating systems, where AI code assistants may fall short if not fine-tuned properly. Even so, each enterprise environment may have developed its way of coding in COBOL, making it difficult for code-generation LLMs to drive suitable output. I found this blog about Thoughtworks' approach to modernizing legacy code using GenAI very insightful and close to what I learned in the field. Here's what stood out to me
+
+1. Custom-First Approach: They emphasize starting with a custom-first approach, considering what could make modernization expensive. This critical perspective is refreshing, especially when they highlight areas where GenAI might not best fit, as mature tools can sometimes outperform large language models.
+
+2. Innovative GenAI Framework: The blog goes beyond simple code translation. It describes a sophisticated process where customers' source code and its abstract syntax are mapped into a knowledge graph. This graph links classes with methods and attributes, creating a "knowledge pipeline" that feeds into a "comprehension pipeline." The result? An enriched knowledge graph can be queried with an LLM, helping stakeholders understand the code's purpose and how modules interact within a monolithic application.
+
+3. Value in Low-Level Requirements: They demonstrate how GenAI can add value to low-level requirements, such as extracting business rules and abstracting flowcharts. While this is still a low-level task, GenAI can speed up developers when it needs to be performed across thousands of lines of code under tight deadlines. This is possibly the low-hanging fruit of COBOL code modernization and code explanation. 
+
+4. Cautious Optimism for High-Level Tasks: They are open about GenAI's current limitations for high-level abstract tasks, acknowledging that this area is a work in progress and still requires much research and experimentation. However, they are actively working on solutions like GraphRAG from Microsoft, which is gaining interest in LLM circles. While not the ultimate solution, it complements ongoing research in areas like chain of thoughts, multi-agent models, and extended context understanding, giving us hope for future advancements.
+
+COBOL developers and AI specialists, what is out there for legacy code?  
+
