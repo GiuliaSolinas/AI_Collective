@@ -7,3 +7,5 @@ Hugging Face synthetic datasets https://huggingface.co/blog/davanstrien/self-ins
 Repository with synthetic datasets https://github.com/davanstrien/awesome-synthetic-datasets
 
 Youtube video for StarCode and StarCode2 https://www.youtube.com/watch?v=IyI8pXbQzbw
+
+GitHub repo for collection of resources about synthetic data https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data
