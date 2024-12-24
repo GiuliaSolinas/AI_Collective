@@ -1,4 +1,4 @@
-![AI Collective Logo](./Users/giuliasolinas/Documents/AI_Collective/image/AI collective.png)
+![AI Collective Logo](./image/AI%20collective.png)
 
 
 # AI Collective
