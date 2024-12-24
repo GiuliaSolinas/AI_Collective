@@ -1,2 +1,5 @@
-# blogging
-This repo contains content that I create to post on my blog, website, and social media profile
+# AI Collective
+
+This repo contains content about improvements in the field of artificial intelligence. 
+
+It is organized by topics. 
