@@ -12,6 +12,7 @@ Code-based frameworks:
 - *LangSmith*: for LLM experiment tracking and deployment. It is designed to understand token costs and number of calls. LangFuse is an alternative open-source solution.
 
 This YouTube [video](https://youtu.be/ldBsvhjEREc?si=z9V3s99bRcqQ3CJi) summarizes the frameworks listed above neatly.
+This IBM Technology YouTube [video](https://youtu.be/qAF1NjEVHhY?si=B_sEB2S1hLfBJKNI) explains the main differences between LangChain and LangGraph. My main takeaway is that LainChain is based on a DAG framework with limited capability for state management, while LangGraph is based on a looping and interactive framework with a more robust possibility to update the state management.
 
 Key takeaways: 
 - Define the prototyping requirements and the timing needed to see first results.
