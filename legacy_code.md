@@ -1,6 +1,12 @@
- # Legacy code
+ # Legacy code modernization
+
+It mainly relate to three areas:
+- re-platform
+- understand
+- refactor
+
  
- **Legacy Code Modernization with GenAI!**
+**Legacy Code Modernization with GenAI!**
  
 Original resource: https://martinfowler.com/articles/legacy-modernization-gen-ai.html.
  
@@ -16,9 +22,13 @@ In their experience, GenAI can bring value to low-level requirements (e.g., extr
 
 They are pretty open to being cautious about GenAI's value for more high-level abstract tasks. I think this is a fair point because it is an area with still a lot of research and experimentation but a consolidated method that could be brought into a stable product. They are working on this issue and point to GraphRAG from Microsoft (this project is gaining much interest in the LLM circles). I do not think it is the ultimate solution, and there are complementary fields, such as research on the chain of thoughts, multi-agentic models, and extension of context understanding. 
 
-Other resources from Thoughtworks
+**Other resources from Thoughtworks**
 
+Link to the podcast with Erik Doernenburg: https://www.thoughtworks.com/insights/podcasts/pragmatism-in-practice/leveraging-AI-for-legacy-modernization?utm_source=linkedin&utm_medium=social-organic&utm_campaign=tech-to-know-vol-11-perspectives-edition_2024-11&utm_content=body-copy
+ 
+Some points that stood out from the podcast: 
+- They start with reverse engineering tools to parse large chunks of code and go through the first "understanding phase." They will save this information into a database (knowledge graph) and then use it in the query for the LLM.
+- RAG is always an excellent strategy to give information about the client's specific "dialect" of COBOL. Fine-tuning may not be necessary. 
+- LLM is helpful, for example, in summarizing an extensive source of information or checking for inconsistencies in code documentation across time. There is (and should not be) a single tool where you inject old COBOL and get new COBOL because there is context to understand. Plus, the developers need to undergo an iterative modernization process using multiple tools and do iterative test checking. 
+- The podcast is a bit shallow on modernization for clients with on-prem requirements. It points to smaller LLMs that could run on-prem, but it seems it is still experimental for everyone as for end of 2024. 
 
-
-
-# Available solutions for code 
