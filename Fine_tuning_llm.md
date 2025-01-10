@@ -22,7 +22,8 @@ Fine-tuning on AWS https://aws.amazon.com/blogs/machine-learning/fine-tune-and-d
 Knowledge distillation
 Pytorch tutorial on knowledge distillation: https://pytorch.org/tutorials/beginner/knowledge_distillation_tutorial.html 
 
-G
+
+Workflow to streamline instruction-tuning and models aligning: https://github.com/datadreamer-dev/DataDreamer
 
 
 
