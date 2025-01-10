@@ -6,8 +6,6 @@ This blog (https://thedataquarry.com/posts/vector-db-3/) by Prashanth Rao   and 
 
 I found this blog (and the rest of the series) very insightful. 
 
-Written by Prashanth Rao  (https://www.linkedin.com/in/prrao87/)
-
 Some additional information about indexing in vector db
 
 https://cloud.google.com/bigquery/docs/vector-index
