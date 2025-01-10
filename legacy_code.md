@@ -5,6 +5,7 @@ It mainly relate to three areas:
 - understand
 - refactor
 
+ GitHub repository for getting started with COBOL: https://github.com/openmainframeproject/cobol-programming-course
  
 **Legacy Code Modernization with GenAI!**
  
