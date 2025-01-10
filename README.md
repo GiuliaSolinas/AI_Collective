@@ -3,9 +3,10 @@
 
 # AI Collective
 
-This open repository contains links to articles, blogs and repositories that I found useful or inspiring in the field of artificial intelligence. It has grown organically and based on the research needs of practical projects to put AI into production. 
+This open repository contains links to articles, blogs and repositories that I found useful or inspiring in the field of artificial intelligence. It has grown organically and based on the research needs of practical projects to put AI into production. Sometimes, it includes also my notes on the resources.
 
 It is organized by core topics and is maintained regularly. Contributions are welcomed as long as they are aimed at fostering knowledge sharing. 
+
 
 ## Core topics:
 - Chunking.
