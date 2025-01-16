@@ -10,6 +10,7 @@ Here below there is a collection of resources that can help framing the problem.
 - Strubell et al (2019) Energy and Policy Considerations for Deep Learning in NLP (https://arxiv.org/pdf/1906.02243)
 - Liu and Yin (2024)Green AI: Exploring Carbon Footprints, Mitigation Strategies, and Trade Offs in Large Language Model Training (https://doi.org/10.48550/arXiv.2404.01157)
 - Luccioli et al. (2024) The Environmental Impacts of AI --Primer (https://huggingface.co/blog/sasha/ai-environment-primer)
+- Massive list of papers from arxiv-sanity-lite: (https://www.arxiv-sanity-lite.com/?rank=pid&pid=2309.14393)
   
 
 **Research on how to build a framework to measure the environmental impact of genAI**
