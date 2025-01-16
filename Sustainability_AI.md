@@ -19,4 +19,4 @@ Here below there is a collection of resources that can help framing the problem.
 - Zhou et al. (2024) Accessing the Capabilities of KGs and LLMs in Mapping Indicators within Sustainability Reporting Standards (https://mediatum.ub.tum.de/doc/1755295/1755295.pdf)
 - Jonveaux J. (2024) Using Large Language Models for a standard assessment mapping for sustainable communities (https://arxiv.org/html/2411.00208v2)
 
-Check the Hugging Face Spaces ``Carbon Compare'' and ``AI carbon''.
+Check the Hugging Face Spaces ``Carbon Compare`` and ``AI carbon``.
