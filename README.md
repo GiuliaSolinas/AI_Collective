@@ -16,3 +16,4 @@ It is organized by core topics and is maintained regularly. Contributions are we
 - Synthetic data.
 - Vector storage.
 - Vision language models and multi-modal models.
+- Sustainability for LLMs.
