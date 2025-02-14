@@ -18,5 +18,6 @@ LLMGraphTransformer (you give a piece of text, and it transforms it into a graph
 - https://python.langchain.com/v0.1/docs/use_cases/graph/constructing/
 - https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/
 - https://medium.com/towards-data-science/building-knowledge-graphs-with-llm-graph-transformer-a91045c49b59
+- https://python.langchain.com/docs/how_to/graph_constructing/#llm-graph-transformer
 
 
