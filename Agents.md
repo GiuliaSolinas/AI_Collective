@@ -13,3 +13,7 @@ Building Strategic AI Agents Using Language Models and Game Theory: https://www.
 ## Opinion articles
 
 Do not leave agents alone: https://www.technologyreview.com/2025/03/24/1113647/why-handing-over-total-control-to-ai-agents-would-be-a-huge-mistake/
+
+## Courses 
+
+Coursera: https://www.coursera.org/specializations/ai-agents-python
